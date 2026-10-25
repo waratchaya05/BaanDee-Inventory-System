@@ -1,0 +1,17 @@
+{
+  "TKT-260731-042": {
+    "canonical_order_id": "ORD-260728-1842",
+    "expected_current_status": "carrier_delay",
+    "must_not_claim": "delivery date"
+  },
+  "TKT-260731-099": {
+    "canonical_order_id": null,
+    "expected_current_status": "unverified",
+    "must_not_claim": "order status"
+  },
+  "TKT-260731-117": {
+    "canonical_order_id": "ORD-260729-2095",
+    "expected_current_status": "shipped",
+    "estimated_delivery": "2026-08-01"
+  }
+}

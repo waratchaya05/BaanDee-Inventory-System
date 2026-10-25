@@ -1,0 +1,11 @@
+[
+  {
+    "po_id": "PO-SKU-0001-001",
+    "product_id": "SKU-0001",
+    "supplier_name": "General Supplier",
+    "quantity": 28,
+    "urgency": "ด่วนมาก (Critical)",
+    "note": "ความเสี่ยงระดับ CRITICAL",
+    "status": "Pending Review"
+  }
+]

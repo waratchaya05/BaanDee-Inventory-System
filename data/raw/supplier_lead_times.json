@@ -1,0 +1,30 @@
+[
+  {
+    "product_id": "P001",
+    "supplier_name": "Siam Living Supply",
+    "lead_time_days": 5,
+    "min_order_qty": 10,
+    "supplier_contact": "contact@siamliving.co.th"
+  },
+  {
+    "product_id": "P002",
+    "supplier_name": "Nordic Wood Works",
+    "lead_time_days": 12,
+    "min_order_qty": 20,
+    "supplier_contact": "sales@nordicwood.com"
+  },
+  {
+    "product_id": "P003",
+    "supplier_name": "Thai Modern Steel",
+    "lead_time_days": 7,
+    "min_order_qty": 15,
+    "supplier_contact": "info@modernsteel.co.th"
+  },
+  {
+    "product_id": "P004",
+    "supplier_name": "Living Tech Partner",
+    "lead_time_days": 3,
+    "min_order_qty": 5,
+    "supplier_contact": "support@livingtech.th"
+  }
+]

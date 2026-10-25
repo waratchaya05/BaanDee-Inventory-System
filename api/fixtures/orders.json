@@ -1,0 +1,18 @@
+{
+  "ORD-260728-1842": {
+    "order_id": "ORD-260728-1842",
+    "status": "carrier_delay",
+    "carrier": "Thai Parcel Demo",
+    "last_event": "Departed Bangkok hub late",
+    "estimated_delivery": null,
+    "as_of": "2026-07-31T11:45:00+07:00"
+  },
+  "ORD-260729-2095": {
+    "order_id": "ORD-260729-2095",
+    "status": "shipped",
+    "carrier": "Isan Express Demo",
+    "last_event": "Arrived Khon Kaen hub",
+    "estimated_delivery": "2026-08-01",
+    "as_of": "2026-07-31T11:50:00+07:00"
+  }
+}
